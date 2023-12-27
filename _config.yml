@@ -18,7 +18,7 @@ theme                    : "jekyll-theme-cayman"
 locale                   : "en-US"
 title                    : "Geraldine Klarenberg, PhD" # "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Selected (publicly available) work"# site tagline that appears below site title in masthead
 name                     : "Geraldine Klarenberg"
 description              : "Geraldine Klarenberg's Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"    # should leave empty
